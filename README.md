@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jielyu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 感兴趣的话题，除了技术，还包括文学、历史、哲学、影视、生活......
+- 🌱 正在学习......
+- 💞️ 欢迎提交 Pull Request 参与我的公开项目
+- 📫 通过Github Issue或者邮箱可以联系
 
 ***
 **⚙️ &nbsp;GitHub Analytics**
@@ -40,21 +40,35 @@ No Activity Tracked This Week
 <!--END_SECTION:waka-->
 ***
 
-***
-
 **🛠 &nbsp;Tech Stack**
+
+- Field: &nbsp;
+  ![Machine Learning & Deep Learning](https://img.shields.io/badge/-ML-333333?style=flat&logo=musicbrainz)
+  ![Computer Vision](https://img.shields.io/badge/-CV-333333?style=flat&logo=opencv)
+  ![Recommended System](https://img.shields.io/badge/-Rec-333333?style=flat&logo=vimeo)
+  ![Flutter Developer](https://img.shields.io/badge/-UI-333333?style=flat&logo=flutter&logoColor=007ACC)
+  
 
 - Languages: &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cpp)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
   ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=007ACC)
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   
+- Tools: &nbsp;
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![PhotoShop](https://img.shields.io/badge/-PhotoShop-333333?style=flat&logo=adobephotoshop)
+  ![Final Cut Pro](https://img.shields.io/badge/-FinalCutPro-333333?style=flat&logo=apple)
+  ![Zotero](https://img.shields.io/badge/-Zotero-333333?style=flat&logo=zotero)
+  ![Telegram](https://img.shields.io/badge/-TG-333333?style=flat&logo=telegram)
 
 - Frameworks: &nbsp;
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
+  ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
 
 - IDEs: &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
