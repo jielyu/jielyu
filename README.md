@@ -43,10 +43,10 @@ No Activity Tracked This Week
 **🛠 &nbsp;Tech Stack**
 
 - Field: &nbsp;
-  ![Machine Learning & Deep Learning](https://img.shields.io/badge/-ML-333333?style=flat&logo=musicbrainz)
-  ![Computer Vision](https://img.shields.io/badge/-CV-333333?style=flat&logo=opencv)
-  ![Recommended System](https://img.shields.io/badge/-Rec-333333?style=flat&logo=vimeo)
-  ![Flutter Developer](https://img.shields.io/badge/-UI-333333?style=flat&logo=flutter&logoColor=007ACC)
+  ![Machine Learning & Deep Learning](https://img.shields.io/badge/-MachineLearning-333333?style=flat&logo=musicbrainz)
+  ![Computer Vision](https://img.shields.io/badge/-ComputerVision-333333?style=flat&logo=opencv)
+  ![Recommended System](https://img.shields.io/badge/-RecommendedSystem-333333?style=flat&logo=vimeo)
+  ![Flutter Developer](https://img.shields.io/badge/-App-333333?style=flat&logo=flutter&logoColor=007ACC)
   
 
 - Languages: &nbsp;
@@ -62,7 +62,7 @@ No Activity Tracked This Week
   ![PhotoShop](https://img.shields.io/badge/-PhotoShop-333333?style=flat&logo=adobephotoshop)
   ![Final Cut Pro](https://img.shields.io/badge/-FinalCutPro-333333?style=flat&logo=apple)
   ![Zotero](https://img.shields.io/badge/-Zotero-333333?style=flat&logo=zotero)
-  ![Telegram](https://img.shields.io/badge/-TG-333333?style=flat&logo=telegram)
+  ![Telegram](https://img.shields.io/badge/-Telegram-333333?style=flat&logo=telegram)
 
 - Frameworks: &nbsp;
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
